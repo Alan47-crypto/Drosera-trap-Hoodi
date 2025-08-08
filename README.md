@@ -18,9 +18,7 @@
   - 4GB RAM
   - 2 CPU Cores
   - 20GB SSD Storage
-- **Recommended VPS Providers**:
-  - [Contabo](https://contabo.com/en/vps/)
-  - [Hetzner](https://www.hetzner.com/cloud)
+
 
 ---
 
@@ -33,17 +31,10 @@ You'll need Hoodi ETH for gas fees:
   - [Stakely Faucet](https://stakely.io/faucet/ethereum-hoodi-testnet-eth)
 
 ### **2. Get Hoodi RPC**
-- Visit [Ankr RPC](https://www.ankr.com/rpc/projects)
+- Visit [Ankr RPC](https://www.ankr.com/rpc/projects) or [Alchemy](https://dashboard.alchemy.com/)
 - Switch to Hoodi testnet and copy your RPC URL
 
 ---
-
-## **🔌 VPS Setup**
-### **1. Connect to VPS**
-Use Termius (mobile/desktop) or SSH:
-```bash
-ssh root@your_vps_ip
-```
 
 ### **2. Update System**
 ```bash
